@@ -1,9 +1,18 @@
-/* rule 1 */
-.subsection {
-    color: blue;
+.box-one {
+    background-color: #00ff00;
+    height: 80px;
+    width: 80px;
+    margin: -25px;
+    border: solid 20px red;
+    padding: 15px;
+    box-sizing: border-box;
 }
-  
-/* rule 2 */
-.main .list {
-    color: red;
+
+.box-two {
+    background-color: #0000ff;
+    height: 80px;
+    width: 80px;
+    margin: -25px;
+    border: solid 20px red;
+    padding: 15px;
 }
